@@ -4,6 +4,7 @@ Assignment 1 for CMPUT301 Winter 2023 at uAlberta
 
 
 Problem Description
+
 Consider the situation of someone who wants to track their driving-related carbon footprint. Make a simple, attractive, intuitive Android mobile app to help users track their gas consumption and calculate their carbon footprint. Let us call this app: MyCarFootprint.
 
 Using this app, users can keep track of their visits to gas stations. Specifically, each gas station visit has the following editable fields:
