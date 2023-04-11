@@ -34,11 +34,3 @@ Diesel: 2.69 kg CO2 per 1 litre
 (source: https://www.eia.gov/environment/emissions/co2_vol_mass.php)
 
 Marks gotten 8/8
-
-The app must assist the user in proper data entry. For example, use appropriate user interface controls to enforce particular data types and avoid illegal values.
-
-For this assignment, the data need not be persistent across runs of the app.
-
-Encode your campus computing ID in the app name. Specifically, the app name must show up as YOURCCID-MyCarFootprint (e.g., kennyw-MyCarFootprint).
-
-
